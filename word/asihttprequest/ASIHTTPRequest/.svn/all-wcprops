@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/stuproj/!svn/ver/4239/ios1218/1216025%E6%9D%8E%E5%BF%97%E8%B6%85/0227/xinkuaibao/XinKuaiBao/XinKuaiBao/asihttprequest/ASIHTTPRequest/ASIDataCompressor.m
+END
